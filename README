@@ -1,0 +1,18 @@
+OSCC- Calendar Outline
+
+Use RVM
+
+OSC  - 
+	Authentication -  Fake for now
+	Event calendar -
+		User login - name, email
+		Create event - title, date, time-duration, desc, location, recurrence
+		User login and register for event (check notification)
+            Notification - notify moderator of events, notify user of event change
+
+	How to test:
+	   Test model
+	   Test - controller functions
+	   Test views
+	   Test:unit first 
+
